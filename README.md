@@ -1,5 +1,5 @@
 # Quote-Generator
-<img width="1310" alt="Screenshot 2023-07-28 at 10 58 09 AM" src="https://github.com/VitaliPri/Quote-Generator/assets/101225909/ffcd8cdc-5934-4c26-93bb-828019b53d95">
+<img width="1207" alt="Screenshot 2023-07-28 at 11 07 47 AM" src="https://github.com/VitaliPri/Quote-Generator/assets/101225909/8edcf886-a47e-42c6-8c6a-84d06478aaaa">
 
 # Font Awesome icons 
 # Button with pressing effect
